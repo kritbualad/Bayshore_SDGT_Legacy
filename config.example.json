@@ -6,6 +6,6 @@
 	"regionId": "701",
     "serverIp": "127.0.0.1",
     "gameOptions": {
-        "newCardsBanned": 1
+        "newCardsBanned": 0
     }
 }
