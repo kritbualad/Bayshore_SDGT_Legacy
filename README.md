@@ -10,6 +10,9 @@ this repo is based on the original repo (https://github.com/shiroikitsu8/Bayshor
 
 ## What is working
  - Only 1.50 (Touhou Project)
+ - Online Battle
+ - Local Battle
+ - Change Name
  - Custom ShopName
  - Custom Country
  - Story Mode, Time Attack (Time Trial), Ghost Battle (Theory of Street), Special Mode (Touhou Project)
@@ -17,9 +20,6 @@ this repo is based on the original repo (https://github.com/shiroikitsu8/Bayshor
 
  ## What is not working 
  - 1.70 (Project Diva), 2.31 (Season 3)
- - Online Battle
- - Local Battle
- - Driver Change Name Limit
 
  ## SEGAguide SDGT
 https://gitea.tendokyu.moe/Dniel97/SEGAguide/wiki/SDGT
