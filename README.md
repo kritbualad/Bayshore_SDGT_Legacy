@@ -1,4 +1,4 @@
-### Instructions: Do not allow Post, Upload Video/Live Stream/Screenshot Gameplay in Public on YouTube, Facebook, Instagram, Bilibili, Tiktok, Twitch, Twitter/X, Meta, Kick, Reddit, Dailymotion, or on Social Media etc. (except Discord Servers is allowed).
+### Instructions: Do not allow Post, Upload Video/Live Stream/Screenshot Gameplay in Public on YouTube, Facebook, Instagram, Bilibili, Tiktok, Twitch, Twitter/X, Meta, Kick, Reddit, Dailymotion, or on Social Media etc. (except Unlisted/Private/Friends or Discord Servers is allowed).
 
 https://twitter.com/initialD_AS/status/1574353085555789824
 
