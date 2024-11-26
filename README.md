@@ -1,4 +1,4 @@
-### Instructions: Do Not allow Post, Upload Video/Live Stream/Screenshot Gameplay in Public on YouTube, Facebook, Instagram, Bilibili, Tiktok, Twitch, Twitter/X, Meta, Kick, Reddit, Dailymotion, or on Social Media etc. So, Do Not upload Video/Live Stream/Screenshot on any Social Media anywhere on Public. SEGA Corporation will Permanently Ban. and maybe destroyed in the future Thank you and our respects (except Unlisted/Private/Friends or Discord Servers is allowed).
+### Instructions: Not allowed Post, Upload Video/Live Stream/Screenshot Gameplay in Public on YouTube, Facebook, Instagram, Bilibili, Tiktok, Twitch, Twitter/X, Meta, Kick, Reddit, Dailymotion, or on Social Media etc. So, Do Not upload Video/Live Stream/Screenshot on any Social Media anywhere on Public. SEGA Corporation will Permanently Ban. and maybe destroyed in the future Thank you and our respects (except Unlisted/Private/Friends or Discord Servers is allowed).
 
 https://twitter.com/initialD_AS/status/1574353085555789824
 
