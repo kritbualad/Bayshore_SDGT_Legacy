@@ -170,8 +170,8 @@ model car {
     l_no                    Int
     car_flag                Int
     tune_point              Int
-    tune_level              Int                 @default(0)
-    tune_parts              Int
+    tune_level              Int                 @default(16)
+    tune_parts              Int                 @default(131068)
     infinity_tune           Int                 @default(0)
     online_vs_win           Int                 @default(0)
     pickup_seq              Int                 @default(1)
